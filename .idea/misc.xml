@@ -1,0 +1,15 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/eureka_server" />
+    <file type="web" url="file://$PROJECT_DIR$/first_service" />
+    <file type="web" url="file://$PROJECT_DIR$/gateway_service" />
+    <file type="web" url="file://$PROJECT_DIR$/second_service" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
